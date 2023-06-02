@@ -32,13 +32,8 @@ This application is a simple product store that allows users to view products, a
 ```bash
 git clone https://github.com/illustraton916/Oleksii-Frontend-project
 ```
-
 2. Install NPM packages
-
-```bash
-
-```
-
+3. 
 ```bash
 npm install
 
