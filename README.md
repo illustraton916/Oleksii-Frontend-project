@@ -1,5 +1,7 @@
 [object Object]
 
+[object Object]
+
 # Product Store
 
 This is a simple product store application built with React.
@@ -20,23 +22,34 @@ This application is a simple product store that allows users to view products, a
 
 - Users can view products, add products to their cart, and checkout
 - User can register and login
-- Admin can add new products, 
+- Admin can add new products,
 - User can edit own profile
 
 ## Installation
 
 1. Clone the repo
-   ```bash
-   git clone https://github.com/illustraton916/fs15_frontend-project
-   ```
+
+```bash
+git clone https://github.com/illustraton916/Oleksii-Frontend-project
+```
+
 2. Install NPM packages
-   ```bash
-   npm install
-   ```
+
+```bash
+
+```
+
+```bash
+npm install
+
+```
+
 3. Run the app
-   ```bash
-   npm start
-   ```
+
+```bash
+npm start
+
+```
 
 ## Usage
 
